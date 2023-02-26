@@ -2,19 +2,33 @@
 
 # Requirement
   dio: ^4.0.4
+  
   flutter_riverpod: ^1.0.3
+  
   build_runner: ^2.1.8
+  
   freezed: ^1.1.1
+  
   freezed_annotation: ^1.1.0
+  
   json_serializable: ^6.1.5
+  
   camera: ^0.10.3
+  
   google_mlkit_text_recognition: ^0.5.0
+  
   animated_background: ^2.0.0
+  
   fluttertoast: ^8.1.4
+  
   cupertino_icons: ^1.0.2
+  
   google_fonts: ^4.0.3
+  
   url_launcher: ^6.1.9
+  
   flutter_native_splash: ^2.2.17
+  
 # Installation
 ```flutter pub get
 #usage
