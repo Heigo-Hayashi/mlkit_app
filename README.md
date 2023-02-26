@@ -18,7 +18,7 @@
 # Installation
 ```flutter pub get
 #usage
-```git clone 
+```git clone https://github.com/Heigo-Hayashi/mlkit_app.git```
 
 ## Getting Started
 
