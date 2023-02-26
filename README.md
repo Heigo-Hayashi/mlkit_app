@@ -1,6 +1,6 @@
 # Price Snap
 
-#Requirement
+# Requirement
   dio: ^4.0.4
   flutter_riverpod: ^1.0.3
   build_runner: ^2.1.8
